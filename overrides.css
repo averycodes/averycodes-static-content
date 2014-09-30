@@ -1,0 +1,55 @@
+.header-image {
+  background-image: url('http://averycodes.com/blog/assets/images/IMG_8915.JPG');
+}
+
+.page-nav {
+  width: 190px;
+  display: inline-block;
+  padding: 10px 75px;
+}
+
+.site-map {
+  margin: 50px 0;
+}
+
+.map-icon {
+  font-size: 75px;
+  text-align: center;
+  display: block;
+  color: #e63f1b;
+}
+
+.map-title{
+  text-align: center;
+  color: #2c2c2c;
+}
+
+.smaller-width {
+  width: 690px;
+  margin: 0 auto;
+}
+
+.contact {
+  width: 210px;
+  background-color: #2c2c2c;
+  border-radius: 15px;
+  padding: 6px;
+  margin: 0 auto;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+
+.contact-icon {
+  color: rgba(255, 255, 255, .6);
+  font-size: 25px;
+  padding: 20px;
+}
+
+.contact-icon:hover {
+  color: #fff;
+  text-shadow: 0 0 5px #e63f1b;
+}
+
+.page-title {
+  text-align: center;
+}
