@@ -122,8 +122,8 @@ table {
   margin: 0
 }
 
-.projects a:hover h3 {
-  text-decoration: none;
+.projects h3 {
+  text-decoration: none !important;
 }
 
 .projects p {
@@ -137,9 +137,17 @@ table {
 }
 
 .projects .right {
-  width: 630px;
+  width: 830px;
   float: left;
   margin-left: 10px;
+}
+
+.projects .clear {
+  clear: both;
+}
+
+.project {
+  margin-top: 25px;
 }
 
 
