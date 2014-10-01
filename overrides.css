@@ -122,13 +122,13 @@ table {
   margin: 0
 }
 
-.projects h3 {
+.projects h3 a:hover{
   text-decoration: none !important;
 }
 
 .projects p {
   font-family: "source-serif-pro";
-  margin: 0;
+  margin: 0 0 10px 0;
 }
 
 .projects .left {
