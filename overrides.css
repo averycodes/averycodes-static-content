@@ -79,6 +79,9 @@
 
 table {
   font-family: "jaf-bernino-sans-condensed";
+}
+
+.bolder {
   font-weight: bolder;
 }
 
@@ -104,4 +107,39 @@ table {
 .resume a:hover {
   text-decoration: none;
 }
+
+/* for projects */
+.projects h2 {
+  font-family: "jaf-bernino-sans-condensed";
+  font-size: 22px;
+  text-transform: uppercase;
+  margin: 30px 0 10px;
+}
+
+.projects h3 {
+  font-family: "jaf-bernino-sans-condensed";
+  font-size: 18px;
+  margin: 0
+}
+
+.projects a:hover h3 {
+  text-decoration: none;
+}
+
+.projects p {
+  font-family: "source-serif-pro";
+  margin: 0;
+}
+
+.projects .left {
+  width: 200px;
+  float: left;
+}
+
+.projects .right {
+  width: 630px;
+  float: left;
+  margin-left: 10px;
+}
+
 
