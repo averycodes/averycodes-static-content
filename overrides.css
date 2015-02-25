@@ -156,4 +156,24 @@ table {
   margin-top: 25px;
 }
 
+@media only screen and (max-device-width: 480px) {
+  .site-map {
+    display: none;
+  }
+
+  .projects .left {
+    float: none;
+    margin: 0 auto;
+  }
+
+  .projects .right {
+    float: none;
+    width: 100%;
+    margin: 0;
+  }
+
+  .hide-in-mobile {
+    display: none;
+  }
+}
 
